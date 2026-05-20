@@ -24,4 +24,5 @@ Thumbs.db
 # ======================
 # DATABASE
 # ======================
-mysql/*.sql
+# Allow schema only
+!mysql/schema.sql

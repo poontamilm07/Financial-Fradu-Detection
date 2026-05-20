@@ -1,0 +1,27 @@
+# ======================
+# FRONTEND (React)
+# ======================
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# ======================
+# BACKEND (Python)
+# ======================
+backend/__pycache__/
+backend/*.pyc
+backend/venv/
+backend/.env
+
+# ======================
+# GENERAL
+# ======================
+.env
+*.log
+.DS_Store
+Thumbs.db
+
+# ======================
+# DATABASE
+# ======================
+mysql/*.sql
